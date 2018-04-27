@@ -1,2 +1,2 @@
-# TuentiChallenge2018
+# Challenge
 (C++ version of problem 2 not working, Java version working)
