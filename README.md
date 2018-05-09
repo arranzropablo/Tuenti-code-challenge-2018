@@ -1,4 +1,4 @@
-# My solutions for Tuenti Code challenge 2018
+# My solutions for Tuenti Code Challenge 2018
 
 Problems are within the folders.
 
